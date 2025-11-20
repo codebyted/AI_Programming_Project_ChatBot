@@ -37,7 +37,7 @@ HOW TO RUN THE PROJECT
 
 2. Clone the repository:
 
-git clone https://github.com/yourusername/AI_Programming_Project
+git clone (https://github.com/codebyted/AI_Programming_Project_ChatBot)
 
 
 3. Navigate to the folder:
